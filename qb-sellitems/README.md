@@ -29,4 +29,4 @@ made with help of the qb−template script
     
  # Dependencies
  
-    qb-core   https://github.com/qbcore-framework/qb-core
+    qb-core (framework)  https://github.com/qbcore-framework/qb-core
