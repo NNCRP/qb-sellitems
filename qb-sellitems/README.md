@@ -30,3 +30,7 @@ made with help of the qb−template script
  # Dependencies
  
     qb-core (framework)  https://github.com/qbcore-framework/qb-core
+    
+ # Optional Dependencies
+    qb-weedjob
+    qb-cokejob
